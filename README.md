@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thunder-godd
+- 👋 Hi, I’m Tony
 - 👀 I’m interested in FullStack Web Development
 - 🌱 I’m currently learning Next.Js and Django 
 - 💞️ I’m looking to collaborate on Frontend and Backend projects...
