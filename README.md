@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tony
-- 👀 I’m interested in FullStack Web Development
+- 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning Next.Js and Django 
-- 💞️ I’m looking to collaborate on Frontend and Backend projects...
+- 💞️ I’m looking to collaborate on Web dvelopment projects...
  
 <!---
 thunder-godd/thunder-godd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
